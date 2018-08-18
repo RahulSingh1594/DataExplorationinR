@@ -13,7 +13,6 @@ library(dplyr)   #dplyr
 
 ```{r data, echo=FALSE, message=FALSE, warning=FALSE}
 
-setwd("C:/Users/Rahul Singh/Downloads")
 data=read.csv("wineQualityReds.csv")
 str(data)
 ```
